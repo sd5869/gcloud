@@ -11,6 +11,7 @@ handlers:
 - url: /js/(.*)
   static_files: js/\1
   upload: js/.*
--url: /help
-static_files: help.html
-upload: help.html
+
+- url: /help.html
+  static_files: help.html
+  upload: help.html
