@@ -15,3 +15,9 @@ handlers:
 - url: /help.html
   static_files: help.html
   upload: help.html
+- url: /web.html
+  static_files: web.html
+  upload: web.html
+- url: /web.unity3d
+  static_files: web.unity3d
+  upload: web.unity3d
