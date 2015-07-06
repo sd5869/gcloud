@@ -21,3 +21,6 @@ handlers:
 - url: /web.unity3d
   static_files: web.unity3d
   upload: web.unity3d
+- url: /DailyPlanner
+  static_files: /DailyPlanner/index.html
+  upload: /DailyPlanner/index.html
